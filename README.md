@@ -1,1 +1,1 @@
-(the skeleton of) my website
+a skeleton for my website
