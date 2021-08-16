@@ -1,4 +1,8 @@
 _site/
+_drafts/
+_teaching/
 markdown_generator/
 talkmap/
+talkmap.ipynb
+talkmap.py
 
