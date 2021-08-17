@@ -20,4 +20,4 @@ Questions, thoughts, and reflections on miscellanous linguistic topics [here](ye
 
 [These](portfolio.html) are some resources including notes, scripts, and a word-finding tool to generate items for psycholinguistic experiments that is a work-in-progress. If you are interested in contributing to the code, making improvements, expanding it to other languages (it currently works with a Bangla corpus), or have any feedback, please reach out!
 
-Beyond linguistics, I love animals of all kinds, making art, and being outdoors. I also foray into occasional cooking experiments, which haven't blown anything up (as of now).
+Beyond linguistics, I love animals of all kinds, making art, and being outdoors. I also foray into the occasional cooking experiment and haven't blown anything up (as of now).
