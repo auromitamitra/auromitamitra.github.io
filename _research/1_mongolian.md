@@ -1,6 +1,7 @@
 ---
 title: "Vowel harmony and coarticulation in Khalka Mongolian"
-excerpt: "This project compares patterns of coarticulation in harmonic vs. non-harmonic vowel sequences to understand how a low-level phonetic process interacts with phonological constraints"
+excerpt: "This project compares patterns of coarticulation in harmonic vs. non-harmonic vowel sequences to understand how a low-level phonetic process interacts with phonological constraints."
+layout: splash
 collection: research
 ---
 
@@ -17,6 +18,6 @@ In this project, we want to understand how the low-level phonetic process of coa
 
 As part of this project, we trained an acoustic model on our own corpus of Khalka Mongolian speech and used this to force-align and anotate the data. The acoustic model can be downloaded [here](https://github.com/auromitamitra/Mongolian_Acoustic_Model).
 
-The data for this study can be found [here](https://github.com/auromitamitra/mongolian_vowel_harmony/tree/main/formant_data). [These](https://github.com/auromitamitra/mongolian_vowel_harmony/tree/main/scripts) are the Praat scripts used for data processing, annotation, and acoustic analyses. 
+The data for this study can be found [here](https://github.com/auromitamitra/mongolian_vowel_harmony/tree/main/formant_data). [These](https://github.com/auromitamitra/mongolian_vowel_harmony/tree/main/scripts) are the Praat and R scripts used for data processing, annotation, and acoustic analyses. 
 
 Preliminary analyses sugest that the direction of coarticulation in non-harmonic sequences is primarily anticipatory (right-to-left), opposite to the direction of vowel harmony. This is unlike harmonic sequences, where coarticulation is primarity mechanico-inertial (left-to-right), the same as that of vowel harmony. 

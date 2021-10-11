@@ -1,7 +1,8 @@
 ---
 title: "Perceptual adaptation in multilingual listeners"
-excerpt: "This project examines how cross-language interaction affects adaptive speech behavior in multilingual listeners, and possible sources of individual differences" 
+excerpt: "This project examines how cross-language interaction affects adaptive speech behavior in multilingual listeners, and possible sources of individual differences." 
 collection: research
+layout: splash
 ---
 Perceptual adaptation in multilingual listeners
 ==

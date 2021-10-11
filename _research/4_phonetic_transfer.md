@@ -1,15 +1,16 @@
 ---
 title: "Phonetic transfer in mixed-language speech"
-excerpt: "This project examined the phonetic outcome of mixed language processing in the speech of multilingual individuals"
+excerpt: "This project examines the phonetic outcome of mixed language processing in the speech of multilingual individuals."
 collection: research
+layout: splash
 ---
 
 Phonetic transfer in mixed-language speech
 ==
 
-This is a collaborative project with [Prof. Indranil Dutta](https://duttalab.github.io/indranil.html), Jadavpur University, Kolkata. The study was conducted at the Speech and Language Processin Lab at EFL University, Hyderabad, during 2019-20. 
+This is a collaborative project with [Prof. Indranil Dutta](https://duttalab.github.io/indranil.html), Jadavpur University, Kolkata. The study was conducted at the Speech and Language Processing Lab at EFL University, Hyderabad, during 2019-20. 
 
-In the speech of multilingual individuals, sound categories of one language often influence those of another while listening or speaking. However, this kind of *cross-language interaction* is often complex. Understanding these patterns can tell us something about how these languages systems are represented and processed in the brain. 
+In the speech of multilingual individuals, sound categories of one language influence those of another while listening or speaking. However, this kind of *cross-language interaction* is often complex. Understanding these patterns can tell us something about how these language systems are represented and processed in the brain. 
 
 In this project, we wanted to understand how the langage *context*-- the situation in which a multilingual person is speaking-- affects their speech. To do this, we asked proficient bilingual participants to read English phrases in two contexts: one where they were using only English, and another where they were seeing both Bengali and English text, and using both langauges.
 

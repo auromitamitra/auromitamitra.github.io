@@ -1,7 +1,8 @@
 ---
 title: "Copula and aspect system of Bangla"
-excerpt: "This project attempts to formulate a semantic account for the distribution and inferences associated with the multi-copula system of Bengali, focusing on the copula verb *ach-* and its links to the progressive and perfect aspect morphology"
+excerpt: "This project attempts to formulate a semantic account for the distribution and inferences associated with the multi-copula system of Bengali, focusing on the copula verb *ach-* and its links to the progressive and perfect aspect morphology."
 collection: research
+layout: splash
 ---
 Copula and aspect system of Bangla
 ==
