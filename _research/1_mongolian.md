@@ -16,7 +16,7 @@ Khalka Mongolian has a robust and regular vowel harmony system: vowels in polysy
 
 In this project, we want to understand how the low-level phonetic process of coarticulation interacts with this kind of grammatical knowledge. To do this, we are comparing the coarticulation in harmonic (words where vowel harmony is seen) vs. non-harmonic (words where vowel harmony is blocked) sequences, to see if/how these differ.
 
-As part of this project, we trained an acoustic model on our own corpus of Khalka Mongolian speech and used this to force-align and anotate the data. The acoustic model can be downloaded [here](https://github.com/auromitamitra/Mongolian_Acoustic_Model).
+As part of this project, we trained an acoustic model on our own corpus of Khalka Mongolian speech and used this to force-align and annotate the data. The acoustic model can be downloaded [here](https://github.com/auromitamitra/Mongolian_Acoustic_Model).
 
 The data for this study can be found [here](https://github.com/auromitamitra/mongolian_vowel_harmony/tree/main/formant_data). [These](https://github.com/auromitamitra/mongolian_vowel_harmony/tree/main/scripts) are the Praat and R scripts used for data processing, annotation, and acoustic analyses. 
 

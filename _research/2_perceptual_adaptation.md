@@ -13,7 +13,7 @@ If you are interested to participate in an online study relating to this project
 
 ---
 
-This is an ongoing project with Dr. Molly Babel at the [Speech in Context Lab](https://speechincontext.arts.ubc.ca/) at the University of British Columbia, Vancouver.
+This is an ongoing project with Dr. Molly Babel at the [Speech in Context Lab](https://speechincontext.arts.ubc.ca/), University of British Columbia, Vancouver. It is funded through a student research fellowship from the [Shastri Indo-Canadian Institute](http://www.shastriinstitute.org/).
 
 A remarkable feature of spoken language is that people easily understand each other even though speech is extremely variable (e.g. due to physiology, dialects, accents, idiosyncrasies). Speech sounds make up a continuous acoustic space, over which languages impose categories. One way of dealing with variability is that when listeners hear an unusual pronunciation, they can adapt to it by adjusting these mental categories (perceptual adaptation/learning). 
 

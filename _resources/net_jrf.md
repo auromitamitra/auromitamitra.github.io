@@ -1,6 +1,6 @@
 ---
 title: "Resources for NET-JRF Linguistics"
-excerpt: Slides on preparing for the NET-JRF exam in Linguistics 
+excerpt: Slides on preparing for the UGC NET-JRF exam in Linguistics 
 collection: portfolio
 layout: splash
 ---
