@@ -9,7 +9,7 @@ Perceptual adaptation in multilingual listeners
 
 \** We are looking for participants! \**
 
-If you are interested to participate in an online study relating to this project or would like to know more, please fill out this [interest form](https://forms.gle/Li7ob84EJHi1RMzi6). 
+If you think you might be interested to participate in a paid online study relating to this project some time in the next few months, or would like to know more, please fill out this [interest form](https://forms.gle/Li7ob84EJHi1RMzi6). (Note: filling this does not commit you to taking part in the study; it is just to identify potential participants. You can decide whether to participate once we contact you with details.)
 
 ---
 
