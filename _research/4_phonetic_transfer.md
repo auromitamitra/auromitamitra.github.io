@@ -10,7 +10,7 @@ Phonetic transfer in mixed-language speech
 
 This is a collaborative project with [Prof. Indranil Dutta](https://duttalab.github.io/indranil.html), Jadavpur University, Kolkata. The study was conducted at the Speech and Language Processing Lab, EFL University, Hyderabad, during 2019-20. 
 
-In the speech of multilingual individuals, sound categories of one language influence those of another while listening or speaking. However, this kind of *cross-language interaction* is often complex. Understanding these patterns can tell us something about how these language systems are represented and processed in the brain. 
+In the speech of multilingual individuals, sound categories of the different languages influence one another while listening and speaking. However, this kind of *cross-language interaction* is often complex. Understanding these patterns can tell us something about how these language systems are represented and processed in the brain. 
 
 In this project, we wanted to understand how the langage *context* -- the situation in which a multilingual person is speaking -- affects their speech. To do this, we asked proficient bilingual participants to read English phrases in two contexts: one where they were using only English, and another where they were seeing both Bengali and English text, and using both langauges.
 
@@ -24,7 +24,7 @@ The materials, data, and code for this study can be found on OSF [here](https://
 
 
 ---
-**Mitra, A.**, Dutta, I. Mixed language processing increases cross-language phonetic transfer in Bengali-English bilinguals (2021, under review) [[manuscript]]()
+**Mitra, A.**, Dutta, I. Mixed language processing increases cross-language phonetic transfer in Bengali-English bilinguals (2021, under revision) [[manuscript]]()
 
 
 **Mitra, A.**, Bhaumik, M., Mondal, A., Dutta, I. (2019). Phonetic accommodation in English loanwords
