@@ -9,7 +9,7 @@ permalink: /research/mongolian
 Vowel harmony and coarticulation in Khalka Mongolian
 ==
 
-This is an ongoing project with Prof. Indranil Dutta at the [Speech Dynamics lab](https://duttalab.github.io/indranil.html), Jadavpur University, Kolkata.
+This is an ongoing project with Prof. Indranil Dutta at the [Speech Dynamics lab](https://duttalab.github.io), Jadavpur University, Kolkata.
 
 While speaking, sounds are not produced discretely, one after the other. Instead, while producing a sound our articulators are still affected by the previous vowel/consonant, and already starting to plan for the next, resulting in overlapping articulatory gestures. This kind of *coarticulation* causes acoustic variation, which means that the same phoneme might have different acoustic properties (and thus potentially sound different) when it occurs in different phonetic environments. Vowel-to-vowel (V-to-V) coarticulation is where the quality of a vowel is affected by a preceding or following vowel. Coarticulation can be both *mechanico-inertial* (the gestures of an earlier vowel perturb a later vowel) and *anticipatory*, (planning of the following vowel perturbs the former).
 
