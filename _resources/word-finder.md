@@ -3,6 +3,7 @@ title: "Phonetic word-finder"
 excerpt: "Tool to generate lists of Bengali words matching specified phonological descriptions"
 collection: portfolio
 layout: splash
+permalink: /resources/word-finder
 ---
 
 Phonetic word-finder for Bengali

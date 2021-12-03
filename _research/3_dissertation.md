@@ -3,6 +3,7 @@ title: "Copula and aspect system of Bangla"
 excerpt: "This project attempts to formulate a semantic account for the distribution and inferences associated with the multi-copula system of Bengali, focusing on the copula verb *ach-* and its links to the progressive and perfect aspect morphology."
 collection: research
 layout: splash
+permalink: /research/copula
 ---
 Copula and aspect system of Bangla
 ==
@@ -19,7 +20,7 @@ What makes the Bangla *ach-* especially interesting is that it appears to have s
 
 ---
 
-Mitra, A (2021). A presuppositional account of the *ach-* copula in Bangla. M.A. dissertation, EFL University, Hyderabad. [[pdf]]()
+Mitra, A (2021). A presuppositional account of the *ach-* copula in Bangla. M.A. dissertation, EFL University, Hyderabad. <a href="/files/auromita_dissertation.pdf" target="_blank">[pdf]</a>
 
 
 

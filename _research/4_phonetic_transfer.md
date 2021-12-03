@@ -3,6 +3,7 @@ title: "Phonetic transfer in mixed-language speech"
 excerpt: "This project examines the phonetic outcome of mixed language processing in the speech of multilingual individuals."
 collection: research
 layout: splash
+permalink: /research/phonetic-transfer
 ---
 
 Phonetic transfer in mixed-language speech
@@ -24,9 +25,10 @@ The materials, data, and code for this study can be found on OSF [here](https://
 
 
 ---
-**Mitra, A.**, Dutta, I. Mixed language processing increases cross-language phonetic transfer in Bengali-English bilinguals (2021, under revision) [[manuscript]]()
+
+**Mitra, A.**, Dutta, I. Mixed language processing increases cross-language phonetic transfer in Bengali-English bilinguals (2021, under revision) <a href="/files/BLC_AM-ID_manuscript.pdf" target="_blank">[manuscript]</a>
 
 
 **Mitra, A.**, Bhaumik, M., Mondal, A., Dutta, I. (2019). Phonetic accommodation in English loanwords
 in Bengali. National Conference on Phonetics: Theoretical Underpinnings and Research Explorations,
-EFL University, Hyderabad, 19th - 20th December 2019 (oral presentation) [[slides]]()
+EFL University, Hyderabad, 19th - 20th December 2019 (oral presentation) <a href="/files/PhonConf_2019.pdf" target="_blank">[slides]</a>

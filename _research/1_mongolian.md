@@ -3,6 +3,7 @@ title: "Vowel harmony and coarticulation in Khalka Mongolian"
 excerpt: "This project compares patterns of coarticulation in harmonic vs. non-harmonic vowel sequences to understand how a low-level phonetic process interacts with phonological constraints."
 layout: splash
 collection: research
+permalink: /research/mongolian
 ---
 
 Vowel harmony and coarticulation in Khalka Mongolian
