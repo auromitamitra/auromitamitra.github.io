@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "she/her"
   location         : #"Hyderabad, India"
-  employer         : "EFL University"
+  employer         : #"EFL University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "auromita.mitra@gmail.com"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "www.linkedin.com/in/auromita-mitra"
   orcid            : "https://orcid.org/0000-0002-9986-8189"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "auromita_mitra"
   vine             :
   weibo            :
   xing             :
