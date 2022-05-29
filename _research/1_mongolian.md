@@ -21,4 +21,8 @@ As part of this project, we trained an acoustic model on our own corpus of Khalk
 
 The data for this study can be found [here](https://github.com/auromitamitra/mongolian_vowel_harmony/tree/main/formant_data). [These](https://github.com/auromitamitra/mongolian_vowel_harmony/tree/main/scripts) are the Praat and R scripts used for data processing, annotation, and acoustic analyses. 
 
-Preliminary analyses sugest that the direction of coarticulation in non-harmonic sequences is primarily anticipatory (right-to-left), opposite to the direction of vowel harmony. This is unlike harmonic sequences, where coarticulation is primarity mechanico-inertial (left-to-right), the same as that of vowel harmony. 
+Preliminary analyses suggest that the direction of coarticulation in non-harmonic sequences is primarily anticipatory (right-to-left), opposite to the direction of vowel harmony. This is unlike harmonic sequences, where coarticulation is primarity mechanico-inertial (left-to-right), the same as that of vowel harmony. 
+
+----
+
+**Mitra, A.**, Dutta, I. (2022) Asymmetries in V-to-V coarticulation among harmonic and non-harmonic sequences in Khalkha Mongolian. Poster to be presented at Laboratory Phonology 18, virtual, June 23-25 2022.
