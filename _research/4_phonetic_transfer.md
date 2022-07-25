@@ -26,7 +26,7 @@ The materials, data, and code for this study can be found on OSF [here](https://
 
 ---
 
-**Mitra, A.**, Dutta, I. Mixed language processing increases cross-language phonetic transfer in Bengali-English bilinguals (2022, under revision) <a href="/files/BLC_AM-ID_manuscript.pdf" target="_blank">[manuscript]</a>
+**Mitra, A.**, Dutta, I. Mixed language processing increases cross-language phonetic transfer in Bengali-English bilinguals (2022, under revision) [manuscript](https://github.com/indranildutta/Phonetic_Transfer/blob/master/draft_BLC/BLC_AM-ID_manuscript.pdf)
 
 
 **Mitra, A.**, Bhaumik, M., Mondal, A., Dutta, I. (2019). Phonetic accommodation in English loanwords
