@@ -23,9 +23,3 @@ The data for this study can be found [here](https://github.com/auromitamitra/mon
 
 Preliminary analyses suggest that the direction of coarticulation in non-harmonic sequences is primarily anticipatory (right-to-left), opposite to the direction of vowel harmony. This is unlike harmonic sequences, where coarticulation is primarity mechanico-inertial (left-to-right), the same as that of vowel harmony. 
 
-----
-
-**Mitra, A.**, Krishnaswany, M., & Dutta, I. (2023). Coarticulation and contrast in a vowel harmony system: coarticulatory propensity in Khalkha Mongolian V-C-V sequences. _Proceedings of the International Congress of Phonetic Sciences (ICPhS), 2023_. <a href="/publication/2023_mongolian_icphs" target="_blank">[abstract]</a> 
-
-
-**Mitra, A.**, Dutta, I. (2022) Asymmetries in V-to-V coarticulation among harmonic and non-harmonic sequences in Khalkha Mongolian. Poster presented at Laboratory Phonology 18, virtual, June 23-25 2022. <a href="https://youtu.be/brornwZ64Ec" target="_blank">[presentation]</a> <a href="/files/labphon18_slides_mongolian.pdf" target="_blank">slides</a>

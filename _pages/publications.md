@@ -28,7 +28,7 @@ Gagarina, N., Klop, D., Kunnari, S., Tantele, K., Välimaa, T., Bohnacker, U. & 
 
 ## Conference presentations and posters 
 
-**Mitra, A.**, Krishnaswany, M., \& Dutta, I. (2023). Coarticulation and contrast in a vowel harmony system: coarticulatory propensity in Khalkha Mongolian V-C-V sequences. Poster presented at the International Congress of Phonetic Sciences (ICPhS), Prague, August 7-11 2023. 
+**Mitra, A.**, Krishnaswany, M., & Dutta, I. (2023). Coarticulation and contrast in a vowel harmony system: coarticulatory propensity in Khalkha Mongolian V-C-V sequences. Poster presented at the International Congress of Phonetic Sciences (ICPhS), Prague, August 7-11 2023. 
 
 **Mitra, A.** (2023). Uncertainty, time, and modal-aspect interaction in Bangla conditionals. Poster presented at the LSA Summer Institute, UMass Amherst, June-July 2023. <a href="/files/lsa2023_conditionals_poster.pdf" target="_blank">[poster]</a>
 
@@ -36,7 +36,7 @@ Gagarina, N., Klop, D., Kunnari, S., Tantele, K., Välimaa, T., Bohnacker, U. & 
 **Mitra, A.**, Dutta, I. (2022) Asymmetries in V-to-V coarticulation among harmonic and non-harmonic sequences in Khalkha Mongolian. Poster presented at Laboratory Phonology 18, virtual, June 23-25 2022. <a href="/files/labphon18_slides_mongolian.pdf" target="_blank">[slides]</a> <a href="https://youtu.be/brornwZ64Ec" target="_blank">[presentation]</a>
 
 **Mitra, A.**, Bhaumik, M., Mondal, A., Dutta, I. (2019). Phonetic accommodation in English loanwords
-in Bengali. Paperpresented at the National Conference on Phonetics: Theoretical Underpinnings and Research Explorations,
+in Bengali. Paper presented at the National Conference on Phonetics: Theoretical Underpinnings and Research Explorations,
 EFL University, Hyderabad, 19th - 20th December 2019. <a href="/files/PhonConf_2019.pdf" target="_blank">[slides]</a>
 
 
