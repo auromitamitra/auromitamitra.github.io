@@ -2,15 +2,18 @@
 main:
   - title: "Research"
     url: /research/
+
+  - title: "Publications and presentations"
+    url: /publications/
   
   - title: "CV"
     url: /cv/
 
   - title: "Resources"
     url: /resources/
+
+
         
-  - title: "Blog"
-    url: /year-archive/
 
 
     

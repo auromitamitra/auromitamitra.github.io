@@ -9,7 +9,7 @@ permalink: /research/mongolian
 Vowel harmony and coarticulation in Khalkha Mongolian
 ==
 
-This is an ongoing project with Prof. Indranil Dutta at the [Speech Dynamics lab](https://duttalab.github.io), Jadavpur University, Kolkata.
+This is a collaborative project with Prof. Indranil Dutta at the [Speech Dynamics lab](https://duttalab.github.io), Jadavpur University, Kolkata.
 
 While speaking, sounds are not produced discretely, one after the other. Instead, while producing a sound our articulators are still affected by the previous vowel/consonant, and already starting to plan for the next, resulting in overlapping articulatory gestures. This kind of *coarticulation* causes acoustic variation, which means that the same phoneme might have different acoustic properties (and thus potentially sound different) when it occurs in different phonetic environments. Vowel-to-vowel (V-to-V) coarticulation is where the quality of a vowel is affected by a preceding or following vowel. Coarticulation can be both *mechanico-inertial* (the gestures of an earlier vowel perturb a later vowel) and *anticipatory*, (planning of the following vowel perturbs the former).
 
@@ -25,4 +25,7 @@ Preliminary analyses suggest that the direction of coarticulation in non-harmoni
 
 ----
 
-**Mitra, A.**, Dutta, I. (2022) Asymmetries in V-to-V coarticulation among harmonic and non-harmonic sequences in Khalkha Mongolian. Poster presented at Laboratory Phonology 18, virtual, June 23-25 2022. [presentation](https://youtu.be/brornwZ64Ec)|<a href="/files/labphon18_slides_mongolian.pdf" target="_blank">slides</a>
+**Mitra, A.**, Krishnaswany, M., & Dutta, I. (2023). Coarticulation and contrast in a vowel harmony system: coarticulatory propensity in Khalkha Mongolian V-C-V sequences. _Proceedings of the International Congress of Phonetic Sciences (ICPhS), 2023_. <a href="/publication/2023_mongolian_icphs" target="_blank">[abstract]</a> 
+
+
+**Mitra, A.**, Dutta, I. (2022) Asymmetries in V-to-V coarticulation among harmonic and non-harmonic sequences in Khalkha Mongolian. Poster presented at Laboratory Phonology 18, virtual, June 23-25 2022. <a href="https://youtu.be/brornwZ64Ec" target="_blank">[presentation]</a> <a href="/files/labphon18_slides_mongolian.pdf" target="_blank">slides</a>

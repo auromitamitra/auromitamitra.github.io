@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Auromita Mitra"
+title                    : "Auromita Mitra (Disha)"
 title_separator          : "-"
-name                     : &name "Auromita Mitra"
+name                     : &name "Auromita Mitra (Disha)"
 description              : &description "something"
 url                      : https://auromitamitra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Auromita (ˈɔromit̪aː)"
+  name             : "Auromita (ˈɔromit̪a) / Disha (ˈd̪iʃa)"
   avatar           : "profile.png"
   bio              : "she/her"
   location         : #"Hyderabad, India"
   employer         : #"EFL University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "auromita.mitra@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=KHDeqwgAAAAJ&hl=en"
+  email            : "auromita.mitra@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  osf              : 
 
 
 # Reading Files

@@ -13,7 +13,4 @@ I conducted a workshop on preparing for the NET-JRF Linguistics exam at Jadavpur
 <a href="/files/talk_ju_sept2021.pdf" target="_blank">[slides]</a>
 
 
-Because there aren't many resources for NET paper 2 in Linguistics, I'm planning to put up more material here, inluding (hopefully) unit-wise notes. Please get in touch if you have suggestions or want to contribute!
-
-
-If you are a student looking for more resources or have questions about the exam, drop me an email at [auromita.mitra@gmail.com](auromita.mitra@gmail.com), and I'll do my best to help!
+If you are a student looking for more resources or have questions about the exam, drop me an email at [auromita.mitra@nyu.edu](auromita.mitra@nyu.edu), and I'll do my best to help!
