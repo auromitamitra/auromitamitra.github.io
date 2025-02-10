@@ -17,7 +17,7 @@ author_profile: true
 
 Bellavance, S. R., Eads, A., Katson, A., Álvarez Retamales, J., McCollum, A., Mitra, A., & Davidson, L. (2024). Vowel nasalization does not cue ambisyllabicity in American English nasals: Evidence from nasometry. _JASA Express Letters, 4(7)_. <a href="https://doi.org/10.1121/10.0027940" target="_blank">[open access link]</a> 
 
-Mitra, A., & Dutta, I. (2023). Mixed language processing increases cross-language phonetic transfer in Bengali–English bilinguals. _Bilingualism: Language and Cognition, 26(5), 896–909. DOI:10.1017/S1366728923000159. 
+Mitra, A., & Dutta, I. (2023). Mixed language processing increases cross-language phonetic transfer in Bengali–English bilinguals. _Bilingualism: Language and Cognition_, 26(5), 896–909. 
 <a href="https://doi.org/10.1017/S1366728923000159" target="_blank">[open access link]</a> <a href="/research/phonetic-transfer" target="_blank">[project page]</a>
 
 
