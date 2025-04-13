@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/auromita-mitra"
+  linkedin         : # "www.linkedin.com/in/auromita-mitra"
   orcid            : "https://orcid.org/0000-0002-9986-8189"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "auromita_mitra"
+  twitter          : # "auromita_mitra"
   vine             :
   weibo            :
   xing             :
