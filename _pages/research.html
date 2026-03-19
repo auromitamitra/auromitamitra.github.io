@@ -8,9 +8,32 @@ A roughly reverse-chronological list of completed and ongoing projects, with lin
 
 
 
+
+
+
+<h2>Semantics</h2>
+
+
 {% include base_path %}
 
 
 {% for post in site.research %}
-  {% include archive-single.html %}
+  {% if post.tags contains "sem" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+
+
+
+
+<h2>Phonetics and sociophonetics</h2>
+
+{% include base_path %}
+
+
+{% for post in site.research %}
+  {% if post.tags contains "phon" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}

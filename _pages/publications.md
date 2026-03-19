@@ -23,14 +23,20 @@ Mitra, A., & Dutta, I. (2023). Mixed language processing increases cross-languag
 
 ## Proceedings (peer-reviewed abstracts)
 
-<sup>+</sup>Cutler, M., <sup>+</sup>Mitra, A., Barnard, M., Cojocaru, V., Goebel, J., MacKenzie, L. (_in prep_). Both (of) the variants show a couple (of) different patterns: Social conditioning of _of_–variation across multiple linguistic environments. To appear in the _Penn Working Papers in Linguistics 31.2_
+<sup>+</sup>Cutler, M., <sup>+</sup>Mitra, A., Barnard, M., Cojocaru, V., Goebel, J., MacKenzie, L. (2025). Both (of) the variants show a couple (of) different patterns: Social conditioning of _of_–variation across multiple linguistic environments. _Penn Working Papers in Linguistics 31.2_
 
 Mitra, A., Krishnaswany, M., & Dutta, I. (2023). Coarticulation and contrast in a vowel harmony system: coarticulatory propensity in Khalkha Mongolian V-C-V sequences. In: R. Skarnitzl, & J. Volín (Eds.) _Proceedings of the 20th International Congress of Phonetic Sciences – ICPhS 2023 (pp. 2214-2218)._ International Phonetic Association. <a href="https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/1043.pdf" target="_blank">[open access link]</a> <a href="/research/mongolian" target="_blank">[project page]</a>
 
 
 ## Conference presentations
 
-<sup>+</sup>Cutler, M., <sup>+</sup>Mitra, A., Barnard, M., Cojocaru, V., Goebel, J., MacKenzie, L. Both (of) the variants show a couple (of) different patterns: Social conditioning of _of_–variation across multiple linguistic environments. Presented at New Ways of Analyzing Variation (NWAV) 52, Miami, November 7-9 2024.  <a href="/files/nwav2024_abstract.pdf" target="_blank">[abstract]</a> <a href="/files/nwav2024_slides.pdf" target="_blank">[slides]</a>
+*Upcoming*: Openness requirements and conditional ’iffiness’: evidence from Bangla *jodi*-conditionals. Talk at the West Coast Conference on Formal Linguistics (WCCFL) 44, Universidad Nacional Autónoma de México, May 6-8 2026
+
+*Upcoming*: Semantic contrasts in the 4-copula system of Bangla. Talk at Formal Approaches to South Asian Languages (FASAL) 16, UCSC, Apr 10-11 2026
+
+Mitra, A. (2025). Openness requirements and conditional ’iffiness’: evidence from Bangla *jodi*-conditionals. Talk at the Mid-Atlantic Colloquium of Studies in Meaning (MACSIM) XI, Johns Hopkins University, October 11 2025. <a href="/files/disha-slides-macsim.pdf" target="_blank">[slides]</a>
+
+<sup>+</sup>Cutler, M., <sup>+</sup>Mitra, A., Barnard, M., Cojocaru, V., Goebel, J., MacKenzie, L. (2024). Both (of) the variants show a couple (of) different patterns: Social conditioning of _of_–variation across multiple linguistic environments. Talk at New Ways of Analyzing Variation (NWAV) 52, Miami, November 7-9 2024.  <a href="/files/nwav2024_abstract.pdf" target="_blank">[abstract]</a> <a href="/files/nwav2024_slides.pdf" target="_blank">[slides]</a>
 
 Mitra, A. (2024). Temporal-modal links and the interpretation of tense-aspect in Bangla conditionals. Poster at the Mid-Atlantic Colloquium of Studies in Meaning (MACSIM), University of Maryland, April 6 2024. <a href="/files/macsim2024_poster.pdf" target="_blank">[poster]</a> 
 
@@ -41,7 +47,7 @@ Mitra, A. (2023). Uncertainty, time, and modal-aspect interaction in Bangla cond
 
 Mitra, A., Dutta, I. (2022) Asymmetries in V-to-V coarticulation among harmonic and non-harmonic sequences in Khalkha Mongolian. Poster at Laboratory Phonology 18, virtual, June 23-25 2022. <a href="/files/labphon18_slides_mongolian.pdf" target="_blank">[slides]</a> <a href="https://youtu.be/brornwZ64Ec" target="_blank">[presentation]</a>
 
-Mitra, A., Bhaumik, M., Mondal, A., Dutta, I. (2019). Phonetic accommodation in English loanwords in Bengali. Presented at the National Conference on Phonetics: Theoretical Underpinnings and Research Explorations,
+Mitra, A., Bhaumik, M., Mondal, A., Dutta, I. (2019). Phonetic accommodation in English loanwords in Bengali. Talk at the National Conference on Phonetics: Theoretical Underpinnings and Research Explorations,
 EFL University, Hyderabad, December 19-20 2019. <a href="/files/PhonConf_2019.pdf" target="_blank">[slides]</a>
 
 
