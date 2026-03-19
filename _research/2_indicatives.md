@@ -14,5 +14,5 @@ Uncertainty in indicative conditional antecedents
 
 
 
-Link to working draft (Feb 2026): <a href="/files/indicatives-draft-18feb2026" target="_blank">[pdf]</a> 
+Link to working draft (Feb 2026): <a href="/files/indicatives-draft-18feb2026.pdf" target="_blank">[pdf]</a> 
 

@@ -13,4 +13,4 @@ Audience design in bidialectal speech
 
 
 
-Link to current draft (June 2025): <a href="/files/zakaria-paper-jun2025" target="_blank">[pdf]</a> 
+Link to current draft (June 2025): <a href="/files/zakaria-paper-jun2025.pdf" target="_blank">[pdf]</a> 
