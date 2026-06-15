@@ -20,3 +20,5 @@ Other questions I've worked on include the meaning of the Indian English _only_.
  I care about open science practices and making linguistic research accessible. [This page](research.html) has lay summaries of completed and ongoing projects, along with links to data and code. [These](resources.html) are some resources I have created, including a word-finding tool to generate Bangla stimuli for psycholinguistic experiments, and an acoustic model for Khalkha Mongolian. 
 
 Outside of linguistics, I love animals of all kinds, painting, and being outdoors. In many Bengali households, children are given two (sometimes more) phonetically unrelated names-- an official _bhalo naam_ 'good name', and a _daknaam_ 'the name by which one is called' (translation from Jhumpa Lahiri's _The Namesake_, one of my favorite books). Mine is Disha, and I prefer to go by that. 
+
+You can reach me at auromita\[dot\]mitra\[at\]nyu\[dot\]edu.
