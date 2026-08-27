@@ -12,5 +12,7 @@ Semantic contrasts in the 4-copula system of Bangla
 ==
 
 
+Link to working draft (July 2026):   <a href="/files/disha-copula-draft-july2026.pdf" target="_blank">[pdf]</a> 
+
 
 Link to slide deck (Apr 2026): <a href="/files/slides-copulas-fasal2026.pdf" target="_blank">[pdf]</a> 

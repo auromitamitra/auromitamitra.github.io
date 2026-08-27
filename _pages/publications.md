@@ -32,6 +32,9 @@ author_profile: true
 
 ## Conference presentations
 
+\[**upcoming**\] Epistemic inferences with Bangla *jodi* and English *if-not-for* counterfactuals. Talk at NELS 57, CUNY.
+
+
 \[**2026**\] Openness requirements and conditional 'iffiness’: evidence from Bangla *jodi*-conditionals. Talk at the West Coast Conference on Formal Linguistics (WCCFL) 44, Universidad Nacional Autónoma de México, May 6-8 2026 <a href="/files/slides-indicatives-wccfl2026.pdf" target="_blank">[slides]</a>
 
 \[**2026**\] Semantic contrasts in the 4-copula system of Bangla. Talk at Formal Approaches to South Asian Languages (FASAL) 16, UCSC, Apr 10-11 2026 <a href="/files/slides-copulas-fasal2026.pdf" target="_blank">[slides]</a>
