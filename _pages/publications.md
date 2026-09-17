@@ -15,7 +15,9 @@ author_profile: true
 
 ## Peer-reviewed articles
 
-\[**submitted**\] Antecedent uncertainty and conditional 'iffiness': evidence from Bangla *jodi*-conditionals. <a href="/files/disha-indicatives-draft-may2026.pdf" target="_blank">[manuscript]</a>
+\[**submitted**\] Two readings of counterfacctual conditionals. <a href="/files/counterfactuals-draft-final-sept2026.pdf" target="_blank">[manuscript]</a>
+
+\[**under revision**\] Antecedent uncertainty and conditional 'iffiness': evidence from Bangla *jodi*-conditionals. <a href="/files/disha-indicatives-draft-may2026.pdf" target="_blank">[manuscript]</a>
 
 \[**2024**\] Bellavance, S. R., Eads, A., Katson, A., Álvarez Retamales, J., McCollum, A., Mitra, A., & Davidson, L. (2024). Vowel nasalization does not cue ambisyllabicity in American English nasals: Evidence from nasometry. _JASA Express Letters, 4(7)_. <a href="https://doi.org/10.1121/10.0027940" target="_blank">[open access link]</a> 
 
