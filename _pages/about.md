@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a fourth-year PhD student in the Linguistics department at New York University, working with <a href= "https://champollion.com/" target="_blank">Lucas Champollion</a>. Before this, I was at the English and Foreign Languages University (EFLU), Hyderabad. 
+Hi! I'm a fifth-year PhD student in the Linguistics department at New York University, working with <a href= "https://champollion.com/" target="_blank">Lucas Champollion</a>. Before this, I was at the English and Foreign Languages University (EFLU), Hyderabad. 
 
 
 My primary interests are in formal semantics and pragmatics, and within that in tense, aspect, and modality. I'm particularly interested in interactions between temporal and modal meaning, and how these are reflected in the grammars of natural languages. I have been working on this with data from the tense-aspect-auxiliary system of Bangla and, more recently, conditional constructions across languages. My ongoing dissertation project is about identifying correspondences between indicative and counterfactual conditionals, by examining conditional connectives that are more restricted than English *if*.
