@@ -15,6 +15,8 @@ author_profile: true
 
 ## Peer-reviewed articles
 
+\[**submitted**\] Presupposition and exclusivity in Indian English *only*. <a href="/files/ie-only-oct2026.pdf" target="_blank">[manuscript]</a>
+
 \[**submitted**\] Two readings of counterfactual conditionals. <a href="/files/counterfactuals-draft-final-sept2026.pdf" target="_blank">[manuscript]</a>
 
 \[**under revision**\] Antecedent uncertainty and conditional 'iffiness': evidence from Bangla *jodi*-conditionals. <a href="/files/disha-indicatives-draft-may2026.pdf" target="_blank">[manuscript]</a>
