@@ -11,4 +11,4 @@ Presupposition and implicature in Indian English _only_
 ==
 
 
-Link to current draft: <a href="/files/ie-only-oct2026.pdf" target="_blank">[pdf]</a> 
+Link to current draft (Oct 2026): <a href="/files/ie-only-oct2026.pdf" target="_blank">[pdf]</a> 
