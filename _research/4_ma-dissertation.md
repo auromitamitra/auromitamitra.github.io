@@ -1,6 +1,6 @@
 ---
 title: "MA thesis: *ach* copula in Bangla"
-excerpt: "This project attempts to formulate a semantic account for the distribution and inferences associated with the copula verb *ach-* in Bangla, and its links to the progressive and perfect aspect morphology."
+excerpt: "This project proposes a semantic account for the distribution and inferences associated with the copula verb *ach-* in Bangla, and its links to the progressive and perfect aspect morphology."
 collection: research
 layout: splash
 permalink: /research/ma-dissertation
