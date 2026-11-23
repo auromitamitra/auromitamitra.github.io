@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-My CV can be found <a href="../files/mitra_cv.pdf" target="_blank">here</a> (updated: Oct 2026)
+My CV can be found <a href="../files/mitra_cv.pdf" target="_blank">here</a> (updated: Nov 2026)
 
 
